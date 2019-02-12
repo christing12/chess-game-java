@@ -17,7 +17,7 @@ hs_err_pid*
 .metadata
 .classpath
 .project
-/.settings
+/.settings/
 bin/
 tmp/
 *.tmp
